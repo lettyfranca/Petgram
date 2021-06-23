@@ -1,1 +1,3 @@
 # Petgram
+Olá! Aqui existe uma tentativa de projeto clone...
+Clone da Interface do Instagram com alterações para um tema de rede social "pet".
